@@ -125,10 +125,3 @@ Detailed findings are documented in the report and presentation.
 ## Conclusion
 
 This project showcases a complete data analytics pipeline—from raw data to insights and storytelling. It highlights proficiency in Python, PostgreSQL, data visualization, and communication, making it suitable for academic, professional, and interview discussions.
-
----
-
-## Author
-
-**Your Name**
-Aspiring Data Analyst | Data Enthusiast
