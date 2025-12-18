@@ -9,7 +9,7 @@ An end-to-end data analysis project using Python and PostgreSQL to analyze 3,900
 
 ## Overview
 
-This project demonstrates an end-to-end data analytics workflow, covering data loading, cleaning, exploratory data analysis (EDA), SQL querying, dashboard creation, reporting, and presentation. The goal is to transform raw data into meaningful insights using industry-standard tools and best practices.
+This project demonstrates an end-to-end data analytics workflow, covering data loading, cleaning, exploratory data analysis (EDA), PostgreSQL querying, dashboard creation, reporting, and presentation. The goal is to transform raw data into meaningful insights using industry-standard tools and best practices.
 
 The project is designed to be clear, practical, and recruiter-friendly, showcasing skills relevant to data analyst and data engineering roles.
 
@@ -29,10 +29,10 @@ The project is designed to be clear, practical, and recruiter-friendly, showcasi
 
 * **Programming Language:** Python
 * **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
-* **Databases:** PostgreSQL / MySQL / SQL Server
+* **Databases:** PostgreSQL
 * **Data Visualization:** Power BI
-* **Presentation:** Gamma (for PPT creation)
-* **Environment:** Jupyter Notebook / VS Code
+* **Presentation:** Gamma 
+* **Environment:** Jupyter Notebook 
 
 ---
 
@@ -56,7 +56,7 @@ The project is designed to be clear, practical, and recruiter-friendly, showcasi
 
 4. **SQL Analysis**
 
-   * Loaded cleaned data into PostgreSQL/MySQL/SQL Server
+   * Loaded cleaned data into PostgreSQL
    * Wrote SQL queries to answer business questions
    * Performed aggregations, filtering, and joins
 
@@ -68,7 +68,7 @@ The project is designed to be clear, practical, and recruiter-friendly, showcasi
 6. **Reporting & Presentation**
 
    * Created a detailed analytical report
-   * Designed a professional PPT using **Gamma** to summarize insights
+   * Designed a professional PPT to summarize insights
 
 ---
 
@@ -112,9 +112,9 @@ Detailed findings are documented in the report and presentation.
 
    * Data cleaning
    * EDA
-   * SQL data loading
+   * PostgreSQL data loading
 
-4. Import the dataset into your SQL database (PostgreSQL/MySQL/SQL Server).
+4. Import the dataset into your PostgreSQL database.
 
 5. Open the **Power BI** file to explore the dashboard.
 
@@ -124,7 +124,7 @@ Detailed findings are documented in the report and presentation.
 
 ## Conclusion
 
-This project showcases a complete data analytics pipeline—from raw data to insights and storytelling. It highlights proficiency in Python, SQL, data visualization, and communication, making it suitable for academic, professional, and interview discussions.
+This project showcases a complete data analytics pipeline—from raw data to insights and storytelling. It highlights proficiency in Python, PostgreSQL, data visualization, and communication, making it suitable for academic, professional, and interview discussions.
 
 ---
 
