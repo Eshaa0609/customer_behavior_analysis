@@ -2,7 +2,7 @@
 An end-to-end data analysis project using Python and PostgreSQL to analyze 3,900 customer transactions, culminating in an interactive Power BI dashboard to visualize revenue drivers and customer loyalty
 
 
-<img width="1316" height="721" alt="image" src="https://github.com/user-attachments/assets/97eb3667-9449-49b4-adf2-b38a7f1e1f7e" />
+<img width="1340" height="733" alt="image" src="https://github.com/user-attachments/assets/09b6509a-bf3d-4ff5-8133-394a16740ac6" />
 
 
 # Data Analytics Project
@@ -81,6 +81,10 @@ The Power BI dashboard provides:
 * Interactive filters for deeper exploration
 
 The dashboard helps stakeholders quickly understand insights and make data-driven decisions.
+
+
+<img width="1343" height="730" alt="image" src="https://github.com/user-attachments/assets/3fc480b7-cfff-4e5a-9f1b-21eac43c9719" />
+
 
 ---
 
